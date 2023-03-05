@@ -6,7 +6,7 @@ categories: [PCB]
 tags: [PCB, CAD]
 ---
 
-After some thinking back and forth I decided to switch out the magnetic side connectors for something else.
+After some thinking back and forth I decided to switch out the magnetic side connectors used by the LS65 for something else.
 The main reasons for this was:
 - The magnetic connectors were kind of expensive and I could only find them on Aliexpress which comes with additional import tax.
 - With the split connection being a proprietary USART bus now, the side connector will no longer be able to transport the split keyboard communication. They will only be for SPI/I2C extensions or extension of the key matrix.
@@ -22,5 +22,5 @@ Of course I didn't stop there and also decided to add another connector on the s
 ![cad-side-conn](/assets/img/220305/cad-side-conn.png)
 
 With these connectors I will be able to add extensions with Displays, keys, rotary encoders, trackballs etc.
-If this works it would be kind of awesome. All of these things are already supported in QMK. Trackball and display just needs and SPI bus. The keys needs col/row pins and the encoders also just needs their own pins. I will not support all modules working on all extension ports, but I'm fine with this limitation.
+If this works it would be kind of awesome. All of these things are already supported in QMK. Trackball and display just needs an SPI connection. The keys will need col/row pins and the encoders also just needs their own pins. I will not support all modules working on all extension ports, but I'm fine with this limitation.
 ![example](/assets/img/220305/extension-example.png)
