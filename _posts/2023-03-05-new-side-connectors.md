@@ -13,7 +13,7 @@ The main reasons for this was:
 - With other stuff going through the side connectors, I don't want stuff to short when the halves are put together.
 
 So what connector to replace it with? I just chose USB-C since it's a good connector and it's cheap. At first I was hesitant because the male plug side of an USB-C connector seemed hesitant to create extensions with since I couldn't find any easy to solder male plugs for it. All of the PCB mount versions of it needs thin PCBs and are solders around the edge of the PCB.
-Luckily I found [these](https://www.tindie.com/products/arturo182/usb-type-c-plug-breakout-usb-20-only/) easy to solder breakouts by [https://www.solder.party/](SolderParty) as well ass [these](https://www.tindie.com/products/arturo182/usb-type-c-smt-plug-30-only-pack-of-5/) pack of plugs. They are even located in Sweden, perfect!
+Luckily I found [these](https://www.tindie.com/products/arturo182/usb-type-c-plug-breakout-usb-20-only/) easy to solder breakouts by [SolderParty](https://www.solder.party/) as well ass [these](https://www.tindie.com/products/arturo182/usb-type-c-smt-plug-30-only-pack-of-5/) pack of plugs. They are even located in Sweden, perfect!
 
 ![usbc-breakout](/assets/img/220305/usbc-breakout.png)
 
