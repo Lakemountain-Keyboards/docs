@@ -3,7 +3,7 @@ layout: post
 title: "How did I get here?"
 data: 2023-02-05 +0100
 img_path: /assets/img/
-categories: [LS65]
+categories: [Lakemountain]
 tags: [LS65, About]
 ---
 A few years back a friend at work bought a kit for a custom mechanical keyboard. I was immediately interested in building my own, but could not find a keyboard with the specs I was looking for, at least not for the price I was willing to pay...

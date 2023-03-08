@@ -3,7 +3,7 @@ layout: post
 title: "Configuration with Vial"
 data: 2023-02-09 +0100
 img_path: /assets/img/
-categories: [Configuration]
+categories: [VIA]
 tags: [Vial, VIA, LS65]
 ---
 The lakemountain keyboards can be configured using [Vial](https://get.vial.today/) (or [VIA](https://www.caniusevia.com/)), meaning that you don't have to reflash you keyboard to change the keymap.

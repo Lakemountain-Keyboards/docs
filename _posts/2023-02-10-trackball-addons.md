@@ -3,7 +3,7 @@ layout: post
 title: "Trackball Addons"
 data: 2023-02-10 +0100
 img_path: /assets/img/
-categories: [Keyboard Addons]
+categories: [Modules]
 tags: [LS65, Trackball, Trackpad]
 ---
 Even though I never actually finished one of the thumb extensions using the side port on the LS65, I had several working prototypes. The main reason for never actually using them is the flash size limit and performance of the atmega32u4 which was really lacking.

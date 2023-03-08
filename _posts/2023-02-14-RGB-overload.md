@@ -2,7 +2,7 @@
 layout: post
 title: "RGB Overload! Actually probably..."
 data: 2023-02-14 +0100
-categories: [RGB]
+categories: [PCB]
 tags: [RGB, sk6812, sk6805, schematic]
 math: true
 ---

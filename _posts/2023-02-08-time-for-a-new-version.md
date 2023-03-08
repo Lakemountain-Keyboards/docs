@@ -2,7 +2,7 @@
 layout: post
 title: "Time for a new version. Again!"
 data: 2023-02-08 +0100
-categories: [PCB Design]
+categories: [PCB]
 tags: [New, PCB, sk6812, stm32]
 pin: true
 ---
