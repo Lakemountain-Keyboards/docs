@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unicorn vomit!"
+title: "More RGB"
 data: 2023-03-06 +0100
 categories: [PCB]
 tags: [PCB, RGB, VIA]
@@ -36,4 +36,4 @@ Additionally I enabled VIA configuration on the board and tried that. Not fully 
 # More derp
 ---
 
-This is what prototypes are fore, but I found another mistake. The alignment of the spacebar is wrong and does not match that of the top plate. It off by a `mm` which is enough to make the switch not fit. Quick fix, but very lucky that I found this!
+This is what prototypes are for, but I found another mistake. The alignment of the spacebar is wrong and does not match that of the top plate. It off by a `mm` which is enough to make the switch not fit. Quick fix, but very lucky that I found this!
