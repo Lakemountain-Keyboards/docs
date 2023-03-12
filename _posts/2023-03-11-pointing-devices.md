@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pointing Devices"
-data: 2023-03-10 +0100
+data: 2023-03-11 +0100
 categories: [hardware]
 tags: [PCB, PMW3366, CIRQUE]
 ---
