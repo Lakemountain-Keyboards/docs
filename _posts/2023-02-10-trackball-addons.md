@@ -22,6 +22,6 @@ I also played around with the small [cirque](https://www.cirque.com/glidepoint-c
 ## Pimoroni trackball
 Here is a video of me experimenting with the [pimoroni trackball](https://shop.pimoroni.com/products/trackball-breakout). It doesn't actually show me using the trackball (which did work) but only playing with the RGB underglow lighting in combination with the one in the trackball.
 
-<!-- <video muted controls>
+<!-- <video muted>
     <source src="../../../assets/img/keyboard/IMG_0616.mp4" type="video/mp4">
 </video> -->

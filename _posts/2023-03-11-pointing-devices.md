@@ -30,7 +30,7 @@ Here's a video of me using it, sorry for the bad angle, it was hard to get both
 the screen and trackpad in the picture. Also the trackpad module was moving
 around making it harder to use.
 
-<video muted controls loop autoplay width="480">
+<video muted loop autoplay width="480">
     <source src="../../assets/img/230311/IMG_1784.MP4" type="video/mp4">
 </video>
 

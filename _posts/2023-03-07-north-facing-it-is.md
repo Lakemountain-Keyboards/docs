@@ -14,10 +14,4 @@ Here's an image trying to show that. It's not as visible on camera but you can s
 
 ![](/assets/img/230307/IMG_1769.JPEG){: width="500"}
 
-
-It's also kind of visible in this video
-<video muted controls loop autoplay width="480">
-    <source src="../../assets/img/230306/rgb-test.mp4" type="video/mp4">
-</video>
-
 Mounting the switches north-facing will remove the direct glare and also illuminate the key labels for transparent keys. The only bad thing is I now have to redo my PCB layouts 😭

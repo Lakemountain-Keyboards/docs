@@ -12,7 +12,7 @@ the keyboard for example. I however like the more silly applications like
 displaying a bongo cat that reacts to your wpm. The WPM is just a rolling
 average of the key presses and the cat animation frames i found on [github](https://github.com/nwii/oledbongocat).
 
-<video muted controls loop autoplay width="480">
+<video muted loop autoplay width="480">
     <source src="../../assets/img/230315/IMG_1788.MP4" type="video/mp4">
 </video>
 
