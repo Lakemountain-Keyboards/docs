@@ -20,3 +20,5 @@ This is using a [128x64 OLED LCD](https://www.electrokit.com/produkt/lcd-oled-0-
 connected via I2C. It's good to see that I can use I2C over the side connector
 as well. My other pointing devices have been connected via the same connector
 but to other pins talking SPI instead. So my IO MUX works!
+
+![logo](/assets/img/230315/logo_oled.JPEG)
